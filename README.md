@@ -1,7 +1,7 @@
 1. Склонируйте репозиторий:
 ```bash
-git clone <ваш-репозиторий>
-cd pp1/project
+git clone https://github.com/5c0uT/ddashbords.git
+cd ddashbords/project
 ```
 
 2. Создайте файл .env на основе примера:
